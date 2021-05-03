@@ -1,17 +1,25 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0",
-	"FriendlyName": "AdvancedLogistics",
-	"Description": "",
-	"Category": "Other",
+	"Version": 0,
+	"VersionName": "0.3.2",
+    "SemVersion": "0.3.2",
+	"FriendlyName": "Advanced Logistics",
+	"Description": "Adds a ratio adjustable splitter and merger",
+	"Category": "Modding",
 	"CreatedBy": "Mircea Roata",
-	"CreatedByURL": "",
+	"CreatedByURL": "https://github.com/mircearoata/SatisfactoryAdvancedLogistics",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": false,
+    "Plugins": [
+        {
+            "Name": "SML",
+            "SemVersion": "^3.0.0",
+            "Enabled": true
+        }
+    ]
 }
