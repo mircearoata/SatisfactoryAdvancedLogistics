@@ -1,6 +1,9 @@
 *
 !*/
-!Content/AdvancedLogistics/*
+!Plugins/AdvancedLogistics/**/*
+Plugins/*/Binaries/*
+Plugins/*/Intermediate/*
+Plugins/*/Saved/*
 !FactoryGame.uproject
 !LICENSE
 !README.md
