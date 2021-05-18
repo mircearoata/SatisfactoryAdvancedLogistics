@@ -7,6 +7,7 @@ Plugins/*/Saved/*
 !FactoryGame.uproject
 !LICENSE
 !README.md
+!.gitignore
 !Content/FactoryGame/Buildable/Factory/CA_Merger/Mesh/*
 !Content/FactoryGame/Buildable/Factory/CA_Merger/UI/*
 !Content/FactoryGame/Buildable/Factory/CA_Splitter/Mesh/*
